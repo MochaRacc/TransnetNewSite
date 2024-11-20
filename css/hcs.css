@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Rethink+Sans");
+@import url("https://test.transnetpt.com/ArminGrotesk/ArminGrotesk.css");
 
 :root {
     /* Colours */
@@ -34,7 +34,7 @@
     --nsw-white-rgb: 255, 255, 255;
   
     /* Font */
-    --nsw-font-family: 'Rethink Sans', sans-serif;
+    --nsw-font-family: 'Armin Grotesk', sans-serif;
     --nsw-font-size: 16px;
     --nsw-line-height: 1.5;
     --nsw-font-normal: 400;
