@@ -1,0 +1,15 @@
+{
+  "name": "harlon-transit-website",
+  "version": "1.0.0",
+  "description": "The website for HarlonTransit, the public transport operator within the city of Harlon. This site uses the NSW Design System (NSWDS), with modifications to match server branding.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
