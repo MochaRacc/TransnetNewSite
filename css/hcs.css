@@ -1,8 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Rethink+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rethink+Sans");
 
 :root {
     /* Colours */
-    --nsw-brand-dark: #5DA818;
+    --nsw-brand-dark: #38FF53;
     --nsw-brand-light: var(--nsw-palette-blue-04);
     --nsw-brand-accent: var(--nsw-palette-red-02);
     --nsw-brand-supplementary: var(--nsw-palette-blue-02);
@@ -34,7 +34,7 @@
     --nsw-white-rgb: 255, 255, 255;
   
     /* Font */
-    --nsw-font-family: 'Manrope', sans-serif;
+    --nsw-font-family: 'Rethink Sans', sans-serif;
     --nsw-font-size: 16px;
     --nsw-line-height: 1.5;
     --nsw-font-normal: 400;
