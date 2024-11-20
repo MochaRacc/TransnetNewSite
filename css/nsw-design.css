@@ -11242,7 +11242,7 @@ a:active {
 }
 
 .nsw-hero-banner--dark .nsw-hero-banner__list {
-    border-color: var(--nsw-brand-dark)
+    border-color: #000
 }
 
 .nsw-hero-banner--lines {
