@@ -11216,11 +11216,11 @@ a:active {
 
 .nsw-hero-banner--dark .nsw-hero-banner__content,
 .nsw-hero-banner--dark .nsw-hero-banner__links {
-    color: var(--nsw-text-light)
+    color: var(--nsw-text-dark)
 }
 
 .nsw-hero-banner--dark .nsw-hero-banner__links a {
-    color: var(--nsw-link-light)
+    color: var(--nsw-link-dark)
 }
 
 .nsw-hero-banner--dark .nsw-hero-banner__links a:visited {
@@ -11242,7 +11242,7 @@ a:active {
 }
 
 .nsw-hero-banner--dark .nsw-hero-banner__list {
-    border-color: var(--nsw-brand-light)
+    border-color: var(--nsw-brand-dark)
 }
 
 .nsw-hero-banner--lines {
